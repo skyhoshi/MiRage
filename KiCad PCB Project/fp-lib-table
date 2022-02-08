@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Cyberdeck Mech Keeb")(type KiCad)(uri "$(KIPRJMOD)/Cyberdeck Mech Keeb.pretty")(options "")(descr ""))
+)
